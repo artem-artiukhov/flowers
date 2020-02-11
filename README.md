@@ -12,3 +12,8 @@ The simplest way to use it (without containerization) is:
 `$ cat sample.txt | python app.py`
 
 this will pass data from sample.txt file as an input data for app.py script.
+
+Few ways to proceed:
+- research in order to define if usage of `deque` objects is applicable;
+- moving to class;
+- adding test cases.
